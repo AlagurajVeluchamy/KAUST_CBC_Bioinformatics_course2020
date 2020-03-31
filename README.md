@@ -1,4 +1,4 @@
-# KAUST_CBC_Bioinformatics_courser2020
+# KAUST CBC Bioinformatics course 2020
 Analysis of NGS data 
 
 
