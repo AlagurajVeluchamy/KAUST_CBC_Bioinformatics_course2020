@@ -11,6 +11,6 @@ Analysis of NGS data
 **DAY 2; 2 April 2020**
 
 
-10:00 AM - 11:00 AM: Introduction to Operating System
+10:00 AM - 11:00 AM: Basic Bioinformatics
 
-11:00 AM - 12:00 AM: Getting friendly with University Linux server
+11:00 AM - 12:00 AM: I/O; Bioinformatics databases; Accessing genomes.
