@@ -1,0 +1,15 @@
+man
+pwd
+ls
+uname
+mkdir
+rmdir
+cat
+cp
+clear
+mv
+rm
+vi
+date
+history
+tar
