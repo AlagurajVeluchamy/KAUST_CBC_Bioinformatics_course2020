@@ -1,0 +1,4 @@
+Resource site: https://github.com/CBC-KAUST/AltExpKAUST2019
+Terminal: ssh velucha@ilogin.ibex.kaust.edu.sa
+Terminal: srun --partition=batch  --tasks=1 --cpus-per-task=1 --mem=4gb --constraint=[intel] --time=30:00 --pty bash -i
+Terminal: git clone https://github.com/CBC-KAUST/AltExpKAUST2019.git
