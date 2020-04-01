@@ -11,6 +11,12 @@ Analysis of NGS data
 **DAY 2; 2 April 2020**
 
 
-10:00 AM - 11:00 AM: Basic Bioinformatics
+10:00 AM - 11:00 AM: Linux essentials - I:
 
-11:00 AM - 12:00 AM: I/O; Bioinformatics databases; Accessing genomes.
+11:00 AM - 12:00 AM: Linux essentials -II:
+
+**DAY 3; 6 April 2020**
+
+10:00 AM - 11:00 AM: I/O; Bioinformatics databases; Accessing genomes.
+
+11:00 AM - 12:00 AM: Bioinformatics: File formats and manipulation.
