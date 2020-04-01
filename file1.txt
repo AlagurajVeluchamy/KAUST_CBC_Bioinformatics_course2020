@@ -1,0 +1,8 @@
+Python statements are usually written in a single line. 
+The newline character marks the end of the statement. 
+If the statement is very long, we can explicitly divide into multiple lines with the line continuation character.
+Let’s look at some examples of multi-line statements.
+message = "Hello There.
+You have come to the right place to learn Python Programming.
+Follow the tutorials to become expert in Python.
+Don't forget to share it with your friends too."
