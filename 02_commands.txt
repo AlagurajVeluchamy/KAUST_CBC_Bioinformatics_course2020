@@ -1,14 +1,15 @@
 Terminal; Navigation;
+uname - System name
 man - manual page
 pwd - present working directory
 ls - list files/folder
-uname - System name
+chmod - change file/folder permission
+cat - create a file / look into content
+cp - copy a file/folder
 mkdir – create (make) directory
 cd - change working directory
 rmdir - remove (empty) directory
 rm  - remove file/directory
-cat - create a file / look into content
-cp - copy a file/folder
 clear - clear the screen
 mv - move a file/folder
 vi - Visual editor
@@ -16,3 +17,4 @@ date - time in the system
 history - logbook of commands
 tar - archive
 gzip - zip a file
+grep - find string in file	
