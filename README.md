@@ -1,3 +1,9 @@
+wget ftp://ftp.ensembl.org/pub/release-99/gff3/caenorhabditis_elegans/Caenorhabditis_elegans.WBcel235.99.gff3.gz
+
+
+
+
+
 # KAUST CBC Bioinformatics course 2020
 Analysis of NGS data 
 
